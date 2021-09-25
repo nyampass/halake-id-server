@@ -1,0 +1,10 @@
+.calva/output-window
+.clj-kondo/.cache
+.cpcache
+.lsp/.cache
+clj.cp
+tools/tools.edn
+
+.DS_Store
+
+resources/public/codes
